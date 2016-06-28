@@ -3,7 +3,7 @@
 ## English
 
 ### Introduction 
-> An OOP implementation for Lua
+> An simple OOP implementation for Lua
 
 ### Features
 - call function `class.set`,`class.get` to set or get class's member.
